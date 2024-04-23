@@ -1,0 +1,20 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@types/node": "npm:@types/node@18.16.19"
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://esm.sh/@jspm/import-map@1.0.8": "61a89e4acc2b123bf9e97f65107a2a4cd9db4d939951e140e94bff3f1afa6c5f",
+    "https://esm.sh/esbuild@0.20.2": "bfb6656ed7eac6c70b4c56cd622db9f203785b20eaebdd33e934316eda7e4929",
+    "https://esm.sh/v135/@jspm/import-map@1.0.8/denonext/import-map.mjs": "fc291e729df6bef849df47df8893b64749785ca65fd5fe1d0e7969db5d3b63ea",
+    "https://esm.sh/v135/esbuild@0.20.2/denonext/esbuild.mjs": "61cf485d6194e66d1eaa65c99e14d54702b942a823cc56223c2e890d7ebfc3cf"
+  }
+}

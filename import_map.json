@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@jspm/import-map": "https://esm.sh/@jspm/import-map@1.0.8",
+    "esbuild": "https://esm.sh/esbuild@0.20.2",
+    "tsconfig-jsdoc/": "https://esm.sh/tsconfig-jsdoc@1.0.7/"
+  }
+}
